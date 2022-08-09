@@ -1,2 +1,3 @@
-#Recreating Pac-Man
+#Pac-man
 
+Recreating Pac-man from scratch.
